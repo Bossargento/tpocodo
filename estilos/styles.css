@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  background-color: #9AC9FE !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+h1, h3 {
+  color: #050747;
+}
+
+p {
+  color: #050747;
+  text-align: justify;
+}
+
+#contenido {
+  margin: 20px;
+}
+
+div.gallery {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+#logo img {
+  background: url("../imgs/Beatles.jpg") no-repeat; 
+  width: 250px; 
+  height: 250px;  
+}
+
+#logo-row {
+  text-align: center;
+}
+
+#h1_musica {
+  margin: 20px;
+}
